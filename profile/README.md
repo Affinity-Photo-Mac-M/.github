@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://forum.affinity.serif.com/uploads/monthly_2020_02/2020-02-27_07-08-40.png.b716873064cdfc65616a010337893a50.png" alt="Affinity Photo — professional photo editing for macOS" width="780"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/qsrUXcCFh6E7fMVXy7Zzqe.jpg" alt="Affinity Photo — professional photo editing for macOS" width="780"/>
 </p>
 
 ---
